@@ -1,0 +1,77 @@
+/* navbar-background */
+*{
+    box-sizing: border-box;
+}
+nav li{
+    font-weight: bold;
+    font-size: 1.1rem;
+    color:black;
+}
+
+
+
+#navy{
+    background-color:maroon;
+    color: white;
+}
+nav .udr{
+    border: 0.3px solid w;
+    width: 100%;
+}
+#title{
+    margin-top:15px ;
+    margin-bottom: 30px;
+}
+
+
+#card p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+div.Menu{
+    margin-bottom: 25px;
+    width: 97%;
+    padding: 15px;
+    background-color: maroon;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+div#card1{
+ 
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+div#card2{
+    font-family: Arial, Helvetica, sans-serif;
+    }
+div#card{
+    font-family: Arial, Helvetica, sans-serif;
+ }
+.navbar-dark #navbar1 .navbar-nav .nav-link{
+    color: black;
+}
+#navy a{
+    color: white;
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+.navbar-toggler{
+    background-color: brown;
+}
+.navbar-dark .navbar-toggler {
+    
+    border-color: rgb(5 4 4);
+}
+#navy a.nav-link{
+    font-size: 1.4rem;
+}
+/* @media (min-width: 992px)
+{
+.col-md-4 {
+    
+    max-width: 32%;
+}
+} */
